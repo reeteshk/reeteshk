@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/reeteshsde" target="blank"><img src="https://img.shields.io/twitter/follow/reeteshsde?logo=twitter&style=for-the-badge" alt="reeteshsde" /></a> </p>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/reeteshk?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/reeteshk?font=milonga)
 
 
 - 🔭 I’m currently working on **Building software**
