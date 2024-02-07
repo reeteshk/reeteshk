@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reetesh Kesarwani</h1>
 <h3 align="center">A passionate Full Stack developer from United States</h3>
 
-<p align="left"> <img src="https://github.com/reeteshk/Portfolio/blob/main/src/assets/heroImage.jpg" alt="reeteshk" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reeteshk" alt="reeteshk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/reeteshsde" target="blank"><img src="https://img.shields.io/twitter/follow/reeteshsde?logo=twitter&style=for-the-badge" alt="reeteshsde" /></a> </p>
