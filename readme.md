@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/reeteshsde" target="blank"><img src="https://img.shields.io/twitter/follow/reeteshsde?logo=twitter&style=for-the-badge" alt="reeteshsde" /></a> </p>
 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/reeteshk?ext=heatmap)
+
+
 - 🔭 I’m currently working on **Building software**
 
 - 🌱 I’m currently learning **AWS, System Design and Low Level Design**
@@ -15,6 +19,7 @@
 - 👨‍💻 All of my projects are available at [https://reeteshk.github.io/Portfolio/](https://reeteshk.github.io/Portfolio/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/reeteshk/](https://www.linkedin.com/in/reeteshk/)
+
 
 - 💬 Ask me about **Coding , Software Engineering , System Design, Programming**
 
@@ -30,7 +35,7 @@
 
 - **Always Updated Profiles:** I ensure my resume, GitHub, and LinkedIn profiles are regularly updated to reflect my latest skills and experiences.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/reeteshk?ext=heatmap)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
