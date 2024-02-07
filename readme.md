@@ -36,3 +36,123 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reeteshk&show_icons=true&locale=en" alt="reeteshk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reeteshk&" alt="reeteshk" /></p>
+
+
+
+# KEY REPOSITORY DIVISION 
+
+
+<h2> (CODING) DATA STRUCTURE & ALGORITHM</h2>
+
+
+<table>
+  <tr>
+    <td > LeetCode 180 </td>
+    <td> <a href="https://github.com/reeteshk/Leetcode180"> LeetCode 180 </a></td>
+  </tr>
+  <tr>
+    <td > Trees </td>
+    <td> <a href="https://github.com/reeteshk/Trees"> Trees </a></td>
+  </tr>
+   <tr>
+   <td > Graph </td>
+    <td> <a href="https://github.com/reeteshk/Graph"> Graph </a></td>
+  </tr>
+   <tr>
+   <td > Dynamic Programming </td>
+    <td> <a href="https://github.com/reeteshk/DP"> Dynamic Programming </a></td>
+  </tr>
+   <tr>
+   <td > BackTracking </td>
+    <td> <a href="https://github.com/reeteshk/BackTracking"> BackTracking</a></td>
+  </tr>
+ <tr>
+ <td > Data Structure Implementation </td>
+    <td> <a href="https://github.com/reeteshk/Data-Structure-Implementation"> Data Structure Implementation </a></td>
+  </tr>
+</table>
+
+
+
+<h2> JAVA BACKEND LEARNING AND PROJECT </h2>
+
+
+<table>
+  <tr>
+    <td > Spring MVC </td>
+    <td> <a href="https://github.com/reeteshk/springMVC"> Spring MVC </a></td>
+  </tr>
+  <tr>
+    <td > Spring JDBC </td>
+    <td> <a href="https://github.com/reeteshk/springJDBC"> Spring JDBC </a></td>
+  </tr>
+   <tr>
+   <td > Spring Core </td>
+    <td> <a href="https://github.com/reeteshk/SpringCore"> Spring Core </a></td>
+  </tr>
+   <tr>
+   <td > Selenium Automation Project </td>
+    <td> <a href="https://github.com/reeteshk/Selenium-Automation-Management"> Selenium Automation Project </a></td>
+  </tr>
+   <tr>
+   <td > Video Player(USING JAVAFXML, Screen Builder) </td>
+    <td> <a href="https://github.com/reeteshk/VideoPlayer"> Video Player(USING JAVAFXML, Screen Builder) </a></td>
+  </tr>
+ <tr>
+ <td > Money Masters </td>
+    <td> <a href="https://github.com/reeteshk/MoneyMasters"> Money Masters  </a></td>
+  </tr>
+  <tr>
+ <td > Donation Management System </td>
+    <td> <a href="https://github.com/reeteshk/Donation-Management-System"> Donation Management System  </a></td>
+  </tr>
+</table>
+
+
+<h2> Cloud and AWS Learning and Projects </h2>
+
+
+<table>
+  <tr>
+    <td > Terraform Learning </td>
+    <td> <a href="https://github.com/reeteshk/Terraform-Learning"> Terraform Learning </a></td>
+  </tr>
+  <tr>
+    <td > WebApp </td>
+    <td> <a href="https://github.com/reeteshk/webapp"> WebApp </a></td>
+  </tr>
+   <tr>
+   <td > AWS-Infra </td>
+    <td> <a href="https://github.com/reeteshk/aws-infra"> AWS-Infra </a></td>
+  </tr>
+</table>
+
+<h2> Frontend Projects and Learning </h2>
+
+
+<table>
+  <tr>
+    <td > Personal Portfolio </td>
+    <td> <a href="https://github.com/reeteshk/Portfolio"> Personal Portfolio  </a></td>
+  </tr>
+  <tr>
+   <td > MERN stack Grocery Delivery Application </td>
+    <td> <a href="https://github.com/reeteshk/FinalProject_WebDesign">MERN stack Grocery Delivery Application  </a></td>
+  </tr>
+  <tr>
+    <td > Weather Application </td>
+    <td> <a href="https://github.com/reeteshk/weatherApp"> Weather Application </a></td>
+  </tr>
+</table>
+
+
+<h2> Building Scalable Application, learning Concepts </h2>
+
+
+<table>
+  <tr>
+    <td > Low Level Design </td>
+    <td> <a href="https://github.com/reeteshk/LLD"> Low Level Design </a></td>
+  </tr>
+  <tr>
+</table>
