@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reeteshk" alt="reeteshk" /></a> </p>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/reeteshk?ext=heatmap)
+
 
 <p align="left"> <a href="https://twitter.com/reeteshsde" target="blank"><img src="https://img.shields.io/twitter/follow/reeteshsde?logo=twitter&style=for-the-badge" alt="reeteshsde" /></a> </p>
 
@@ -30,6 +30,8 @@
 
 - **Always Updated Profiles:** I ensure my resume, GitHub, and LinkedIn profiles are regularly updated to reflect my latest skills and experiences.
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/reeteshk?ext=heatmap)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reeteshsde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reeteshsde" height="30" width="40" /></a>
@@ -47,6 +49,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reeteshk&show_icons=true&locale=en" alt="reeteshk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reeteshk&" alt="reeteshk" /></p>
+
 
 
 
