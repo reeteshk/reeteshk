@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reeteshk" alt="reeteshk" /></a> </p>
 
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/reeteshk?ext=heatmap)
+
 <p align="left"> <a href="https://twitter.com/reeteshsde" target="blank"><img src="https://img.shields.io/twitter/follow/reeteshsde?logo=twitter&style=for-the-badge" alt="reeteshsde" /></a> </p>
 
 - 🔭 I’m currently working on **Building software**
@@ -13,9 +16,19 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/reeteshk/](https://www.linkedin.com/in/reeteshk/)
 
-- 💬 Ask me about **Coding , Software Engineering ,**
+- 💬 Ask me about **Coding , Software Engineering , System Design, Programming**
 
 - 📫 How to reach me **kesarwani.r@northeastern.edu**
+
+### For Recruiters and Hiring Managers: What You Can Expect from Me
+  
+
+
+- **Adaptability and Learning:** I demonstrate adaptability and a willingness to learn new skills and technologies to excel in dynamic work environments.
+
+- **Continuous Improvement:** I proactively seek feedback to refine and enhance my professional skills and abilities.
+
+- **Always Updated Profiles:** I ensure my resume, GitHub, and LinkedIn profiles are regularly updated to reflect my latest skills and experiences.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
