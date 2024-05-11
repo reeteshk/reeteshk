@@ -138,6 +138,7 @@
   </tr>
 </table>
 
+<table>
 <h2> PYTHON PROJECTS AND LEARNING </h2>
 <tr>
     <td > DATA Science - Fatty Liver Prediction </td>
