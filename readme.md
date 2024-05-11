@@ -102,6 +102,12 @@
 
 
 <table>
+
+ <tr>
+    <td > Springboot Microservice Project </td>
+    <td> <a href="https://github.com/reeteshk/Microservices"> Springboot Microservice Project</a></td>
+  </tr>
+
   <tr>
     <td > Spring MVC </td>
     <td> <a href="https://github.com/reeteshk/springMVC"> Spring MVC </a></td>
@@ -132,6 +138,21 @@
   </tr>
 </table>
 
+<h2> PYTHON PROJECTS AND LEARNING </h2>
+<tr>
+    <td > DATA Science - Fatty Liver Prediction </td>
+    <td> <a href="https://github.com/reeteshk/DataScience-FattyLiverPrediction">DATA Science - Fatty Liver Prediction </a></td>
+  </tr>
+  <tr>
+    <td > FASTAPI - Projects </td>
+    <td> <a href=https://github.com/reeteshk/FASTAPI "> FASTAPI - Projects </a></td>
+  </tr>
+   <tr>
+    <td > Custom GPT </td>
+    <td> <a href="https://github.com/reeteshk/CustomGPT-Data-Science-Professor"> Custom GPT </a></td>
+  </tr>
+  
+</table>
 
 <h2> Cloud and AWS Learning and Projects </h2>
 
